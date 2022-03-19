@@ -1,0 +1,14 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.list-unordered{
+    color: yellowgreen;
+    font-family: 'verdana';
+}
+
+#hobbies{
+    background-color: aquamarine;
+    text-align: center;
+}

@@ -37,18 +37,18 @@ number => number % 2 ===0 ? "even" : "odd" ;
   /* (5) Write a switch statement for a 'day' variable that prints out something based off of what day of
     the week it is
     i.e. if it's Monday, print "good luck" or wednesday print "hump day" or friday print "party" */
-switch(day) {
-    case 'Monday':
-        console.log("good luck")
-    case 'Tuesday':
-        console.log("almost hump day")
-    case 'Wednesday':
-        console.log("hump day")
-    case 'Thrusday':
-        console.log("almost friday")
-    case 'Friday': 
-        console.log("party")
-}
+// switch(day) {
+//     case 'Monday':
+//         console.log("good luck")
+//     case 'Tuesday':
+//         console.log("almost hump day")
+//     case 'Wednesday':
+//         console.log("hump day")
+//     case 'Thrusday':
+//         console.log("almost friday")
+//     case 'Friday': 
+//         console.log("party")
+// }
   /* (6) Write an arrow function that takes in a number, and uses a for loop to return the sum of every
     number from 1 up to that number
     ex. sumUp(7) = 28 */
@@ -75,6 +75,8 @@ switch(day) {
     { firstName: "Jackson", lastName: "Wolf", gpa: 4.0 },
     { firstName: "Jared", lastName: "Nguyen", gpa: 4.0 },
   ];
+  
+
 
   /* Hardest Challenge (Don't do this without completing harder challenges) */
 
